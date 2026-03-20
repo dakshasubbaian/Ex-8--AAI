@@ -1,7 +1,6 @@
 <H3> NAME: DAKSHA SUBBAIAN</H3>
 <H3> REGISTER NUMBER: 212223230036</H3>
 <H3>EXPERIMENT NO: 08 </H3>
-<H3>DATE: 20-05-2025 </H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim :</H3>
 
